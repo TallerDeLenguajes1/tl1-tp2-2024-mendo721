@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
-#include <stdio.h>
+#include <stdlib.h>
 
 #define N 5
 #define M 7
